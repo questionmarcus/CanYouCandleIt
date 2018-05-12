@@ -11,4 +11,14 @@ Or check out the Jam Sandwich [presentation](https://docs.google.com/presentatio
 
 OR... Listen to us talk about the game on [YouTube](https://www.youtube.com/watch?v=O3Y2f50fZv0)
 
+## Credits:
+Music: DL Royalty Free Music
+Game Assets: OpenGameArt and Kenney.nl
+Cake and Candle Asset: MadMarcel on OpenGameArt
+Fireplace Asset: Summer Thaxton and Stafford McIntyre
+
 ![HomeScreen](img/screenshot1.png)
+
+Added after the 12 hour Game Jam:
+- Colliders on the left hand side
+- Music
